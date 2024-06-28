@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(247, 254, 184);
+}
+.header_div{
+    background-color: aliceblue;
+    color: silver;
+}
+.header_div p{
+    font-family: cursive;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: large;
+}
+.main_div button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 300px;
+    width: 300px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    background-color: blueviolet;
+    color: lavenderblush;
+    width: 100%;
+    font-size: larger;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    line-height: 100px;
+}
